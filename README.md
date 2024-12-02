@@ -1,1 +1,1 @@
-# bodlogoJS
+# Problem solving in Javascript
